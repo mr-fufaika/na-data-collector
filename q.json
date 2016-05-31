@@ -1,0 +1,96 @@
+ [
+	{ 
+		"Column": "Meeting",
+		"Question": "Did you attend metting today?",
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+
+	},
+	{ 
+		"Column": "Share",
+		"Question": "Did you share on meeting today?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Sponsor",
+		"Question": "Did you talk with your sponsor?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Talk",
+		"Question": "Did you talk with any other addict today?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Steps",
+		"Question": "Did you work on steps today?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Read",
+		"Question": "Did you read NA literature today?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Inventory",
+		"Question": "Did you do daily inventory?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Service",
+		"Question": "Did you made service in NA today?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Pray",
+		"Question": "Did you pray today?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Meditation",
+		"Question": "Did you meditation?", 
+		"awaits": ["y", "n", "yes", "no"],
+		"prompt": "Y/n",
+		"default": "y",
+		"isValue": true
+	}, 
+	{ 
+		"Column": "Comment",
+		"Question": "Wanna comment you day?",
+		"prompt": "",
+		"isValue": false
+	}, 
+	{ 
+		"Column": "Value",
+		"Question": "Rate your day!",
+		"awaits": ["1", "2", "3", "4", "5"],
+		"prompt": "(1-5)",
+		"isValue": false
+	} 
+]
